@@ -106,9 +106,9 @@ analytics:
 author:
   name             : "ai.art.technology"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "智說智話是一個全新概念的智媒體，提供讀者各式各樣的科技新聞、時事新聞等，歡迎大家訂閱、追蹤、拍手，商業合作/贊助請聯繫：ai.art.technology@gmail.com。"
+  bio              : "智說智話是一個全新概念的智媒體，提供讀者各式各樣的科技新聞、時事新聞等，歡迎大家訂閱、追蹤、拍手，商業合作/贊助歡迎透過 Email 聯繫。"
   location         : "台北"
-  email            :
+  email            : "ai.art.technology@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -181,7 +181,7 @@ exclude:
   - Rakefile
   - README
   - tmp
-  # - /docs # ignore Minimal Mistakes /docs
+  - /docs # ignore Minimal Mistakes /docs
   # - /test # ignore Minimal Mistakes /test
 keep_files:
   - .git
